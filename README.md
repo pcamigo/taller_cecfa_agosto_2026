@@ -1,6 +1,6 @@
 # taller_cecfa_agosto_2026
 
-# Jupyter Notebooks para el taller ¿Puede un algoritmo entender el Universo?, congreso CECFA, 23 de enero de 2026
+# Jupyter Notebooks para el taller ¿Puede un algoritmo entender el Universo?, congreso CECFA, 04 de agosto de 2026
 
 Aquí encontrarás el Jupyter notebooks que utilizaremos durante el taller.
 
@@ -18,6 +18,7 @@ https://colab.research.google.com/github/pcamigo/taller_cecfa_2026/blob/main/Pri
 )
 
 ## Datos
+
 
 Los datos necesarios para ejecutar los notebooks están disponibles en los siguientes enlaces:
 
