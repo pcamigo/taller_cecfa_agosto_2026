@@ -14,7 +14,7 @@ Ante cualquier duda, no dudes en escribirme a: pia.amigo@usm.cl
 Puedes abrir cualquier notebook en Google Colab para un acceso y ejecución sencillos. Solo debes hacer clic en el botón **"Open in Colab"** que aparece junto a cada notebook.
 
 Primera red neuronal  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/pcamigo/taller_cecfa_2026/blob/main/Primera_red_neuronal_taller_cecfa.ipynb
+(https://colab.research.google.com/github/pcamigo/taller_cecfa_agosto_2026/blob/main/Primera_red_neuronal_taller_cecfa.ipynb)
 )
 
 ## Datos
